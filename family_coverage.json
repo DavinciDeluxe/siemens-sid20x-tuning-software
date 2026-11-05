@@ -1,0 +1,226 @@
+{
+  "family": "Siemens SID20x & SID80x",
+  "slug": "siemens-sid20x",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/siemens-sid20x-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 146,
+  "brands": {
+    "FIAT": [
+      "SID206",
+      "SID208",
+      "SID803",
+      "SID803A"
+    ],
+    "ALFA ROMEO": [
+      "SID803A"
+    ],
+    "LANCIA": [
+      "SID803A"
+    ],
+    "JEEP": [
+      "SID803A"
+    ],
+    "CHRYSLER": [
+      "SID803A"
+    ],
+    "RAM": [
+      "SID803A"
+    ],
+    "FORD": [
+      "SID202-206",
+      "SID208",
+      "SID208 (SW: 10126020AD)",
+      "SID209-211",
+      "SID309",
+      "SID801-804",
+      "SID802",
+      "SID802-804",
+      "SID803",
+      "SID803-803A",
+      "SID803A",
+      "SID804",
+      "SID807-807EVO"
+    ],
+    "LAND ROVER": [
+      "SID201",
+      "SID201-04",
+      "SID201-203-204",
+      "SID201-4",
+      "SID203",
+      "SID203 SID201",
+      "SID203-205",
+      "SID204",
+      "SID208",
+      "SID20X"
+    ],
+    "JAGUAR": [
+      "SID201",
+      "SID201-04",
+      "SID204",
+      "SID206",
+      "SID208",
+      "SID20X"
+    ],
+    "MAZDA": [
+      "SID206",
+      "SID208",
+      "SID807"
+    ],
+    "MERCEDES-BENZ": [
+      "SID305-6",
+      "SID307"
+    ],
+    "SMART": [
+      "SID305-6",
+      "SID307"
+    ],
+    "MAYBACH": [
+      "SID305-6",
+      "SID307"
+    ],
+    "MITSUBISHI": [
+      "SID807",
+      "SID807EVO"
+    ],
+    "OPEL": [
+      "SID309"
+    ],
+    "PEUGEOT": [
+      "SID201",
+      "SID206",
+      "SID208",
+      "SID209-211",
+      "SID308",
+      "SID80",
+      "SID801",
+      "SID801-804",
+      "SID801A",
+      "SID801X",
+      "SID803",
+      "SID803-803A",
+      "SID803A",
+      "SID803A-30X",
+      "SID804",
+      "SID805",
+      "SID806",
+      "SID807-807EVO",
+      "SID80X"
+    ],
+    "CITROËN": [
+      "SID201",
+      "SID206",
+      "SID208",
+      "SID80",
+      "SID801",
+      "SID801-804",
+      "SID801A",
+      "SID801X",
+      "SID803",
+      "SID803-803A",
+      "SID803A",
+      "SID803A-30X",
+      "SID804",
+      "SID805",
+      "SID806",
+      "SID807-807EVO",
+      "SID80X"
+    ],
+    "DS": [
+      "SID201",
+      "SID206",
+      "SID208",
+      "SID80",
+      "SID801",
+      "SID801-804",
+      "SID801A",
+      "SID801X",
+      "SID803",
+      "SID803-803A",
+      "SID803A",
+      "SID804",
+      "SID805",
+      "SID806",
+      "SID807-807EVO",
+      "SID80X"
+    ],
+    "RENAULT": [
+      "SID301-04",
+      "SID305",
+      "SID305_6",
+      "SID306",
+      "SID307",
+      "SID309",
+      "SID30X"
+    ],
+    "DACIA": [
+      "SID301-04",
+      "SID305",
+      "SID305_6",
+      "SID306",
+      "SID307",
+      "SID309",
+      "SID30X"
+    ],
+    "NISSAN": [
+      "SID301-04",
+      "SID305-7",
+      "SID305_6",
+      "SID309"
+    ],
+    "INFINITI": [
+      "SID301-04",
+      "SID305-6",
+      "SID307",
+      "SID309"
+    ],
+    "ALPINE": [
+      "SID301-04",
+      "SID305-6",
+      "SID307",
+      "SID309"
+    ],
+    "SUZUKI": [
+      "SID801A"
+    ],
+    "TOYOTA": [
+      "SID803-803A",
+      "SID804",
+      "SID805"
+    ],
+    "LEXUS": [
+      "SID805"
+    ],
+    "VOLKSWAGEN": [
+      "SID307"
+    ],
+    "AUDI": [
+      "SID307"
+    ],
+    "SEAT": [
+      "SID307"
+    ],
+    "SKODA": [
+      "SID307"
+    ],
+    "CUPRA": [
+      "SID307"
+    ],
+    "PORSCHE": [
+      "SID307"
+    ],
+    "LAMBORGHINI": [
+      "SID307"
+    ],
+    "BENTLEY": [
+      "SID307"
+    ],
+    "VOLVO": [
+      "SID202",
+      "SID206",
+      "SID803",
+      "SID803A",
+      "SID807-807EVO"
+    ]
+  }
+}
