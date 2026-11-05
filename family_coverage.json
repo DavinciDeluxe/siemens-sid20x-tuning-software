@@ -2,8 +2,16 @@
   "family": "Siemens SID20x & SID80x",
   "slug": "siemens-sid20x",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/siemens-sid20x-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/siemens-sid20x-tuning-software",
+    "https://www.davincideluxe.org/siemens-sid20x-tuning-software",
+    "https://www.davincideluxe.app/siemens-sid20x-tuning-software",
+    "https://www.davincideluxe.software/siemens-sid20x-tuning-software",
+    "https://www.davincideluxe.es/siemens-sid20x-tuning-software",
+    "https://www.davincideluxe.de/siemens-sid20x-tuning-software",
+    "https://www.davincideluxe.it/siemens-sid20x-tuning-software",
+    "https://www.aesoftech.eu/siemens-sid20x-tuning-software"
+  ],
   "matched_variants_count": 146,
   "brands": {
     "FIAT": [
