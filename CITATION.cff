@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Siemens / Continental SID20x / SID30x / SID80x ECU Calibration Software — SID206, SID305, SID307, SID309, SID310, SID803A, SID807EVO (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/siemens-sid20x-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/siemens-sid20x-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
