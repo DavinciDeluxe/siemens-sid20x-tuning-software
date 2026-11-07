@@ -1,10 +1,10 @@
-# Siemens SID20x & SID80x ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Siemens SID20x & SID80x ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Siemens%20SID20x%20%26%20SID80x-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/siemens-sid20x-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/siemens-sid20x-tuning-software)
 
-**Siemens SID20x & SID80x** is Siemens/Continental PSA, Ford, Volvo, Renault & Nissan diesel ECU family (SID201/206/305/307/310/803/807). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Siemens SID20x & SID80x readouts**.
+**Siemens SID20x & SID80x** is Siemens/Continental PSA, Ford, Volvo, Renault & Nissan diesel ECU family (SID201/206/305/307/310/803/807). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Siemens SID20x & SID80x readouts**.
 
 ## 📊 Live Siemens SID20x & SID80x Variants Covered Across Brands
 
