@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/siemens-sid20x-tuning-software",
     "https://www.aesoftech.eu/siemens-sid20x-tuning-software"
   ],
-  "matched_variants_count": 146,
+  "matched_variants_count": 151,
   "brands": {
     "FIAT": [
       "SID206",
@@ -38,7 +38,6 @@
     "FORD": [
       "SID202-206",
       "SID208",
-      "SID208 (SW: 10126020AD)",
       "SID209-211",
       "SID309",
       "SID801-804",
@@ -155,7 +154,8 @@
     "RENAULT": [
       "SID301-04",
       "SID305",
-      "SID305_6",
+      "SID305-306",
+      "SID305-6",
       "SID306",
       "SID307",
       "SID309",
@@ -164,7 +164,8 @@
     "DACIA": [
       "SID301-04",
       "SID305",
-      "SID305_6",
+      "SID305-306",
+      "SID305-6",
       "SID306",
       "SID307",
       "SID309",
@@ -172,8 +173,12 @@
     ],
     "NISSAN": [
       "SID301-04",
+      "SID305",
+      "SID305-306",
+      "SID305-6",
       "SID305-7",
-      "SID305_6",
+      "SID306",
+      "SID307",
       "SID309"
     ],
     "INFINITI": [
