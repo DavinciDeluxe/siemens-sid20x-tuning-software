@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/siemens-sid20x-tuning-software",
     "https://www.aesoftech.eu/siemens-sid20x-tuning-software"
   ],
-  "matched_variants_count": 151,
+  "matched_variants_count": 153,
   "brands": {
     "FIAT": [
       "SID206",
@@ -91,6 +91,12 @@
       "SID807EVO"
     ],
     "OPEL": [
+      "SID309"
+    ],
+    "CHEVROLET": [
+      "SID309"
+    ],
+    "VAUXHALL": [
       "SID309"
     ],
     "PEUGEOT": [
