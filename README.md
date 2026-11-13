@@ -35,11 +35,11 @@
 | **CHRYSLER** | 1 | `SID803A` |
 | **RAM** | 1 | `SID803A` |
 | **OPEL** | 1 | `SID309` |
+| **CHEVROLET** | 1 | `SID309` |
+| **VAUXHALL** | 1 | `SID309` |
 | **SUZUKI** | 1 | `SID801A` |
 | **LEXUS** | 1 | `SID805` |
 | **VOLKSWAGEN** | 1 | `SID307` |
-| **AUDI** | 1 | `SID307` |
-| **SEAT** | 1 | `SID307` |
 
 👉 **[Open the full Siemens SID20x & SID80x guide & test your file free at https://www.davincideluxe.fr/siemens-sid20x-tuning-software →](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)**
 
