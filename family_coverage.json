@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/siemens-sid20x-tuning-software",
     "https://www.aesoftech.eu/siemens-sid20x-tuning-software"
   ],
-  "matched_variants_count": 153,
+  "matched_variants_count": 152,
   "brands": {
     "FIAT": [
       "SID206",
@@ -30,9 +30,6 @@
       "SID803A"
     ],
     "CHRYSLER": [
-      "SID803A"
-    ],
-    "RAM": [
       "SID803A"
     ],
     "FORD": [
