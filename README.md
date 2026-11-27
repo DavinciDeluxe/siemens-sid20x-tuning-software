@@ -15,9 +15,9 @@
 | **DS** | 16 | `SID201`, `SID206`, `SID208`, `SID80`, `SID801`, `SID801-804`, `SID801A`, `SID801X` … |
 | **FORD** | 12 | `SID202-206`, `SID208`, `SID209-211`, `SID309`, `SID801-804`, `SID802`, `SID802-804`, `SID803` … |
 | **LAND ROVER** | 10 | `SID201`, `SID201-04`, `SID201-203-204`, `SID201-4`, `SID203`, `SID203 SID201`, `SID203-205`, `SID204` … |
-| **RENAULT** | 8 | `SID301-04`, `SID305`, `SID305-306`, `SID305-6`, `SID306`, `SID307`, `SID309`, `SID30X` |
 | **DACIA** | 8 | `SID301-04`, `SID305`, `SID305-306`, `SID305-6`, `SID306`, `SID307`, `SID309`, `SID30X` |
 | **NISSAN** | 8 | `SID301-04`, `SID305`, `SID305-306`, `SID305-6`, `SID305-7`, `SID306`, `SID307`, `SID309` |
+| **RENAULT** | 8 | `SID301-04`, `SID305`, `SID305-306`, `SID305-6`, `SID306`, `SID307`, `SID309`, `SID30X` |
 | **INFINITI** | 7 | `SID301-04`, `SID305`, `SID305-306`, `SID305-6`, `SID306`, `SID307`, `SID309` |
 | **ALPINE** | 7 | `SID301-04`, `SID305`, `SID305-306`, `SID305-6`, `SID306`, `SID307`, `SID309` |
 | **JAGUAR** | 6 | `SID201`, `SID201-04`, `SID204`, `SID206`, `SID208`, `SID20X` |
@@ -30,16 +30,16 @@
 | **MAYBACH** | 2 | `SID305-6`, `SID307` |
 | **MITSUBISHI** | 2 | `SID807`, `SID807EVO` |
 | **ALFA ROMEO** | 1 | `SID803A` |
-| **LANCIA** | 1 | `SID803A` |
-| **JEEP** | 1 | `SID803A` |
-| **CHRYSLER** | 1 | `SID803A` |
-| **OPEL** | 1 | `SID309` |
-| **CHEVROLET** | 1 | `SID309` |
-| **VAUXHALL** | 1 | `SID309` |
-| **SUZUKI** | 1 | `SID801A` |
-| **LEXUS** | 1 | `SID805` |
-| **VOLKSWAGEN** | 1 | `SID307` |
 | **AUDI** | 1 | `SID307` |
+| **OPEL** | 1 | `SID309` |
+| **BENTLEY** | 1 | `SID307` |
+| **CHEVROLET** | 1 | `SID309` |
+| **CHRYSLER** | 1 | `SID803A` |
+| **JEEP** | 1 | `SID803A` |
+| **CUPRA** | 1 | `SID307` |
+| **VAUXHALL** | 1 | `SID309` |
+| **LANCIA** | 1 | `SID803A` |
+| **LAMBORGHINI** | 1 | `SID307` |
 
 👉 **[Open the full Siemens SID20x & SID80x guide & test your file free at https://www.davincideluxe.fr/siemens-sid20x-tuning-software →](https://www.davincideluxe.fr/siemens-sid20x-tuning-software)**
 
