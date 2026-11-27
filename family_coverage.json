@@ -14,88 +14,6 @@
   ],
   "matched_variants_count": 158,
   "brands": {
-    "FIAT": [
-      "SID206",
-      "SID208",
-      "SID803",
-      "SID803A"
-    ],
-    "ALFA ROMEO": [
-      "SID803A"
-    ],
-    "LANCIA": [
-      "SID803A"
-    ],
-    "JEEP": [
-      "SID803A"
-    ],
-    "CHRYSLER": [
-      "SID803A"
-    ],
-    "FORD": [
-      "SID202-206",
-      "SID208",
-      "SID209-211",
-      "SID309",
-      "SID801-804",
-      "SID802",
-      "SID802-804",
-      "SID803",
-      "SID803-803A",
-      "SID803A",
-      "SID804",
-      "SID807-807EVO"
-    ],
-    "LAND ROVER": [
-      "SID201",
-      "SID201-04",
-      "SID201-203-204",
-      "SID201-4",
-      "SID203",
-      "SID203 SID201",
-      "SID203-205",
-      "SID204",
-      "SID208",
-      "SID20X"
-    ],
-    "JAGUAR": [
-      "SID201",
-      "SID201-04",
-      "SID204",
-      "SID206",
-      "SID208",
-      "SID20X"
-    ],
-    "MAZDA": [
-      "SID206",
-      "SID208",
-      "SID807"
-    ],
-    "MERCEDES-BENZ": [
-      "SID305-6",
-      "SID307"
-    ],
-    "SMART": [
-      "SID305-6",
-      "SID307"
-    ],
-    "MAYBACH": [
-      "SID305-6",
-      "SID307"
-    ],
-    "MITSUBISHI": [
-      "SID807",
-      "SID807EVO"
-    ],
-    "OPEL": [
-      "SID309"
-    ],
-    "CHEVROLET": [
-      "SID309"
-    ],
-    "VAUXHALL": [
-      "SID309"
-    ],
     "PEUGEOT": [
       "SID201",
       "SID206",
@@ -117,6 +35,21 @@
       "SID807-807EVO",
       "SID80X"
     ],
+    "ALFA ROMEO": [
+      "SID803A"
+    ],
+    "AUDI": [
+      "SID307"
+    ],
+    "OPEL": [
+      "SID309"
+    ],
+    "BENTLEY": [
+      "SID307"
+    ],
+    "CHEVROLET": [
+      "SID309"
+    ],
     "CITROËN": [
       "SID201",
       "SID206",
@@ -136,6 +69,28 @@
       "SID807-807EVO",
       "SID80X"
     ],
+    "CHRYSLER": [
+      "SID803A"
+    ],
+    "JEEP": [
+      "SID803A"
+    ],
+    "CUPRA": [
+      "SID307"
+    ],
+    "DACIA": [
+      "SID301-04",
+      "SID305",
+      "SID305-306",
+      "SID305-6",
+      "SID306",
+      "SID307",
+      "SID309",
+      "SID30X"
+    ],
+    "VAUXHALL": [
+      "SID309"
+    ],
     "DS": [
       "SID201",
       "SID206",
@@ -154,25 +109,84 @@
       "SID807-807EVO",
       "SID80X"
     ],
-    "RENAULT": [
-      "SID301-04",
-      "SID305",
-      "SID305-306",
+    "MERCEDES-BENZ": [
       "SID305-6",
-      "SID306",
-      "SID307",
-      "SID309",
-      "SID30X"
+      "SID307"
     ],
-    "DACIA": [
+    "FIAT": [
+      "SID206",
+      "SID208",
+      "SID803",
+      "SID803A"
+    ],
+    "LANCIA": [
+      "SID803A"
+    ],
+    "FORD": [
+      "SID202-206",
+      "SID208",
+      "SID209-211",
+      "SID309",
+      "SID801-804",
+      "SID802",
+      "SID802-804",
+      "SID803",
+      "SID803-803A",
+      "SID803A",
+      "SID804",
+      "SID807-807EVO"
+    ],
+    "INFINITI": [
       "SID301-04",
       "SID305",
       "SID305-306",
       "SID305-6",
       "SID306",
       "SID307",
-      "SID309",
-      "SID30X"
+      "SID309"
+    ],
+    "JAGUAR": [
+      "SID201",
+      "SID201-04",
+      "SID204",
+      "SID206",
+      "SID208",
+      "SID20X"
+    ],
+    "LAND ROVER": [
+      "SID201",
+      "SID201-04",
+      "SID201-203-204",
+      "SID201-4",
+      "SID203",
+      "SID203 SID201",
+      "SID203-205",
+      "SID204",
+      "SID208",
+      "SID20X"
+    ],
+    "LAMBORGHINI": [
+      "SID307"
+    ],
+    "LEXUS": [
+      "SID805"
+    ],
+    "MAZDA": [
+      "SID206",
+      "SID208",
+      "SID807"
+    ],
+    "SMART": [
+      "SID305-6",
+      "SID307"
+    ],
+    "MAYBACH": [
+      "SID305-6",
+      "SID307"
+    ],
+    "MITSUBISHI": [
+      "SID807",
+      "SID807EVO"
     ],
     "NISSAN": [
       "SID301-04",
@@ -184,14 +198,18 @@
       "SID307",
       "SID309"
     ],
-    "INFINITI": [
+    "PORSCHE": [
+      "SID307"
+    ],
+    "RENAULT": [
       "SID301-04",
       "SID305",
       "SID305-306",
       "SID305-6",
       "SID306",
       "SID307",
-      "SID309"
+      "SID309",
+      "SID30X"
     ],
     "ALPINE": [
       "SID301-04",
@@ -202,6 +220,12 @@
       "SID307",
       "SID309"
     ],
+    "SEAT": [
+      "SID307"
+    ],
+    "SKODA": [
+      "SID307"
+    ],
     "SUZUKI": [
       "SID801A"
     ],
@@ -210,31 +234,7 @@
       "SID804",
       "SID805"
     ],
-    "LEXUS": [
-      "SID805"
-    ],
     "VOLKSWAGEN": [
-      "SID307"
-    ],
-    "AUDI": [
-      "SID307"
-    ],
-    "SEAT": [
-      "SID307"
-    ],
-    "SKODA": [
-      "SID307"
-    ],
-    "CUPRA": [
-      "SID307"
-    ],
-    "PORSCHE": [
-      "SID307"
-    ],
-    "LAMBORGHINI": [
-      "SID307"
-    ],
-    "BENTLEY": [
       "SID307"
     ],
     "VOLVO": [
